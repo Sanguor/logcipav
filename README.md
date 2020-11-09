@@ -1,2 +1,2 @@
-# logCipav
+# logcipav
 logger from La Cipav
